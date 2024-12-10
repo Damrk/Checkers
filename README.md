@@ -1,2 +1,2 @@
 # Checkers
- PyGame Checkers with Minimax AI
+A simple Checkers project, implemementing a minimax opponent.
