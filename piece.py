@@ -11,10 +11,8 @@ class Piece:
         self.colour = colour
         self.king = False
         if self.colour == WHITE:
-            self.direction = -1
             self.c_outline = BLACK
         else:
-            self.direction = 1
             self.c_outline = WHITE
         self.x = 0
         self.y = 0
